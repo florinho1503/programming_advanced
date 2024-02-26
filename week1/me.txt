@@ -1,0 +1,2 @@
+Hi! 
+My name is Floris. I am 19 years old, and this is my first year as a student in Groningen. I like to play tennis. Last year, I played college tennis in the States. I also like to work on programming projects in my free time. I have done a project on vizualizing Spotify user data, scraping sports bookmakers and a few other projects, mostly in Python. I am looking forward to this course!
